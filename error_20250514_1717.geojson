@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Vigeland Park" }, "geometry": { "type": "Point", "coordinates": [ 596164.56158684915863, 6644345.211594826541841 ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Opera House" }, "geometry": { "type": "Point", "coordinates": [ 597396.473652813816443, 6643301.939707142300904 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Palace" }, "geometry": { "type": "Point", "coordinates": [ 598119.680477328016423, 6643878.133870310150087 ] } },
+{ "type": "Feature", "properties": { "name": "Karl Johans Gate" }, "geometry": { "type": "Point", "coordinates": [ 596980.860709608648904, 6644004.098152640275657 ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget" }, "geometry": { "type": "Point", "coordinates": [ 596332.064570163493045, 6642646.650517185218632 ] } },
+{ "type": "Feature", "properties": { "name": "Barcode Project" }, "geometry": { "type": "Point", "coordinates": [ 595556.815314411069266, 6643031.919561114162207 ] } },
+{ "type": "Feature", "properties": { "name": "Akerselva River Path" }, "geometry": { "type": "LineString", "coordinates": [ [ 597979.902883906499483, 6643118.991370024159551 ], [ 598133.20250116486568, 6643245.612756956368685 ], [ 598297.968452863977291, 6643361.4035121249035 ] ] } },
+{ "type": "Feature", "properties": { "name": "Frogner Park Trail" }, "geometry": { "type": "LineString", "coordinates": [ [ 597849.251634922460653, 6642981.833499473519623 ], [ 597913.989463179605082, 6643072.679924108088017 ], [ 598023.745969105744734, 6643153.577673645690084 ] ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Fjord Walk" }, "geometry": { "type": "LineString", "coordinates": [ [ 597990.512433754629456, 6642718.166146437637508 ], [ 598117.052643969887868, 6642799.510597368702292 ], [ 598244.178308117086999, 6642858.591390273533762 ] ] } },
+{ "type": "Feature", "properties": { "name": "National Museum Avenue" }, "geometry": { "type": "LineString", "coordinates": [ [ 596807.837329921196215, 6643010.160801608115435 ], [ 596878.773267298820429, 6643078.866930408403277 ], [ 596960.596685664029792, 6643159.00142561737448 ] ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget Pathway" }, "geometry": { "type": "LineString", "coordinates": [ [ 596451.215778232202865, 6642310.06811832357198 ], [ 596533.64667059853673, 6642367.924655567854643 ], [ 596616.074999450705945, 6642425.783053903840482 ] ] } },
+{ "type": "Feature", "properties": { "name": "Barcode Project" }, "geometry": { "type": "Point", "coordinates": [ 595556.815314411069266, 6643031.919561114162207 ] } },
+{ "type": "Feature", "properties": { "name": "Stortinget" }, "geometry": { "type": "Point", "coordinates": [ 596332.064570163493045, 6642646.650517185218632 ] } },
+{ "type": "Feature", "properties": { "name": "Karl Johans Gate" }, "geometry": { "type": "Point", "coordinates": [ 596980.860709608648904, 6644004.098152640275657 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Palace" }, "geometry": { "type": "Point", "coordinates": [ 598119.680477328016423, 6643878.133870310150087 ] } },
+{ "type": "Feature", "properties": { "name": "Oslo Opera House" }, "geometry": { "type": "Point", "coordinates": [ 597396.473652813816443, 6643301.939707142300904 ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 596016.924618163960986, 6642330.96372677013278 ], [ 596494.550678850384429, 6641765.111290419474244 ], [ 596615.484024012461305, 6642174.860172564163804 ], [ 596501.760839952272363, 6642533.313027145341039 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 596777.869297383003868, 6643254.32392156496644 ], [ 596971.759578099590726, 6642780.516505347564816 ], [ 597798.941545680630952, 6643245.019833760336041 ], [ 598248.534781736787409, 6643058.142679552547634 ], [ 598063.62191400071606, 6642502.067817473784089 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 596249.617338361102156, 6642282.792635875754058 ], [ 596122.155090457526967, 6641773.497801472432911 ], [ 596459.104426071513444, 6642080.428639862686396 ], [ 596795.137544113211334, 6641899.452214769087732 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 596883.499001959920861, 6643080.515502229332924 ], [ 596937.383691197494045, 6643134.445122451521456 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 597104.335156435379758, 6646522.351273541338742 ], [ 597497.668543121078983, 6645358.075634801760316 ], [ 598937.650493058841676, 6645432.458088826388121 ], [ 598341.804519902449101, 6646012.920783471316099 ], [ 598099.667039777967148, 6644886.06940885540098 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 598016.844837199314497, 6641161.207102335058153 ], [ 598493.385780260432512, 6641336.488599085249007 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 598564.523886396200396, 6641392.594672388397157 ], [ 598904.932234919047914, 6641564.310718761757016 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 597791.846227024681866, 6641916.151687176898122 ], [ 598254.975619015400298, 6642157.101623279973865 ] ] } },
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ 598255.001841658493504, 6642157.115554846823215 ], [ 598806.06325682962779, 6642818.041230010800064 ] ] } },
+{ "type": "Feature", "properties": { "name": "Vigeland Park" }, "geometry": { "type": "Point", "coordinates": [ 596163.829208591021597, 6644345.569338535889983 ] } }
+]
+}

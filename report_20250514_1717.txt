@@ -1,0 +1,11 @@
+Kjøringstidspunkt: 2025.05.14, 17:17
+Reprojiserer til EPSG:25832, terskel=100.0 m
+Antall objekter: 40
+Sammendrag:
+Antall selvkryssende linjer: 1
+Antall ugyldige geometrier: 0
+Antall duplikat-geometrier: 10
+Antall kryssende geometrier: 8
+Antall for-nære geometrier (<100.0m): 9
+Totalt unike objekter med feil: 26
+Skrevet 26 objekter til 'error_20250514_1717.geojson'
